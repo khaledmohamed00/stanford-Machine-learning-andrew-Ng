@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1492214994 source:/home/khaled/Documents/reader_writer/main.c
+	<sys/types.h>
+	<sys/syscall.h>
+	<stdlib.h>
+	<stdio.h>
+	<pthread.h>
+	<semaphore.h>
+	<unistd.h>
+	"header.h"
+	<stdlib.h>
+	<time.h>
+
+1492215965 /home/khaled/Documents/reader_writer/header.h
+
+1492215545 source:/home/khaled/Documents/reader_writer/source.c
+	<pthread.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<semaphore.h>
+
