@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494014175 source:/home/khaled/Documents/FIFO Page Replacement/main.c
+	<stdio.h>
+	<stdlib.h>
+
