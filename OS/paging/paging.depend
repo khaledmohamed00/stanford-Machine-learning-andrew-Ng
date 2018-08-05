@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493662817 source:/home/khaled/Documents/paging/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+

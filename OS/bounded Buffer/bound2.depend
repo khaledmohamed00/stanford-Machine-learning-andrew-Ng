@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1492205245 source:/home/khaled/Documents/bound2/main.c
+	<sys/types.h>
+	<sys/syscall.h>
+	<stdlib.h>
+	<stdio.h>
+	<pthread.h>
+	<semaphore.h>
+	<unistd.h>
+	"header.h"
+	<stdlib.h>
+	<time.h>
+
+1492201493 /home/khaled/Documents/bound2/header.h
+
+1492206783 source:/home/khaled/Documents/bound2/source.c
+	<pthread.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<semaphore.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493657813 source:/home/khaled/Documents/segmentation/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
